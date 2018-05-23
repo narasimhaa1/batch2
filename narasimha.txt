@@ -5,4 +5,8 @@ Where are you now?
 what are you doing now?
 =======
 Nice to meet you, What's your name?
+<<<<<<< HEAD
 >>>>>>> nie to meet you
+=======
+Thank you, How are you?
+>>>>>>> How are you
