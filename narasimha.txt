@@ -1,4 +1,9 @@
 Hi! What is your name?
 My name is Narasimha..
+<<<<<<< HEAD
 Nice to meet you, What's your name?
 Thank you, How are you?
+=======
+Where are you now?
+
+>>>>>>> where are you now?
